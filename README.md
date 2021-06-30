@@ -1,4 +1,4 @@
-###Digit-recognizer-using-CNN
+### Digit-recognizer-using-CNN
 <br/>
 - Classify Hand-written Digits on MNIST Dataset using CNN. This project is all about building image classification models using CNN on each of these datasets.
 
